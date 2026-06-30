@@ -1,0 +1,13 @@
+# secrets — never commit
+.env
+
+# python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# run artifacts & personal calendar data
+*.log
+*.ics
+sample_*.ics
